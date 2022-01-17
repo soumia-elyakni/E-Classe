@@ -22,19 +22,21 @@ height: 4vw;
     align-self: center;
     border-radius: 8px;
     border: #E5E5E5 solid;
+    
 }
 
 .Searchinput{
     align-self: center;
     border: none;
-    width: 90px;
-    height: 17px;
+    width: 8vw;
+    height: 2vw;
 }
 
    /*icone*/
    .notif{ 
     align-self: center;
     margin-left: 12px;
+    align-items: flex-end;
     
 }
 
@@ -145,13 +147,13 @@ height: 4vw;
     font-size: 1vw;
 }
 
-@media (min-width: 768px) and (max-width: 991.98px) { 
+/*@media (min-width: 768px) and (max-width: 991.98px) { 
     
     .cards{
         display: block;
     }
 
- }
+ }*/
 
 
 
