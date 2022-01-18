@@ -90,6 +90,10 @@ height: 4vw;
     font-size: 0.7vw;
 }
 
+.buttons :hover{
+     background-color: #00C1FE;
+ }
+
 .buLogout{
     margin-top: 8vh;
     display: flex;
@@ -104,8 +108,8 @@ height: 4vw;
     border: none;
     outline: none;
     font-size: 0.7vw;
-
 }
+
 
 .center{
     width: 2vw;
