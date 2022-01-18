@@ -8,7 +8,7 @@ body{
     background-color: #fdfdfd;
 }
 
-/*header*/
+/*navbar*/
 nav{
 width: 80vw;
 height: 4vw;
@@ -18,7 +18,6 @@ height: 4vw;
 .form-control{
     width: 15vw;
     height: 2.5vw;
-    margin-left: 710px;
     align-self: center;
     border-radius: 8px;
     border: #E5E5E5 solid;
@@ -28,8 +27,8 @@ height: 4vw;
 .Searchinput{
     align-self: center;
     border: none;
-    width: 8vw;
-    height: 2vw;
+    width:90%;
+    
 }
 
    /*icone*/
@@ -40,12 +39,8 @@ height: 4vw;
     
 }
 
-    /*search icone*/
-.form-control svg{
-    align-self: center;
-    justify-items: right;
-    margin-left: 110px;
-}
+    
+
 
  
 
@@ -161,6 +156,7 @@ height: 4vw;
 tbody tr{
     background-color: white;
     border-radius: 8px;
+    
 }
 
 
